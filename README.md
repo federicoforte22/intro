@@ -1,4 +1,4 @@
-# Algoritmos y Estructuras de Datos
+# Introducción al Desarrollo de Software
 
 Este es el repositorio del sitio web de Introducción al Desarrollo de Software, publicado en:
 
